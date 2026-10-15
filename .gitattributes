@@ -1,0 +1,2 @@
+data/raw/sales_train_evaluation.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/sell_prices.csv filter=lfs diff=lfs merge=lfs -text
