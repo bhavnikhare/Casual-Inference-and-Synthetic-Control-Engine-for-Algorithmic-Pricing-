@@ -1,0 +1,23 @@
+CALENDAR
+Invalid dates: 0
+Duplicate dates: 0
+Date range: 2011-01-29 00:00:00 to 2016-06-19 00:00:00
+
+SALES
+Duplicate full rows: 0
+Duplicate id values: 0
+Missing identifiers:
+id          0
+item_id     0
+dept_id     0
+cat_id      0
+store_id    0
+state_id    0
+Negative daily sales values: 0
+Daily columns checked: 1941
+
+SELLING PRICES
+Rows checked: 6841121
+Negative prices: 0
+Zero prices: 0
+Duplicate store-item-week keys: 0
