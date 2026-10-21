@@ -18,7 +18,7 @@ DICTIONARY_FILE = OUT / "data_dictionary.xlsx"
 TREATMENT_STORE = "CA_1"
 INTERVENTION_DATE = pd.Timestamp("2016-04-01")
 PRE_START = pd.Timestamp("2016-01-01")
-POST_END = pd.Timestamp("2016-06-19")
+POST_END = pd.Timestamp("2016-05-22")
 
 print("Loading calendar and price lookup tables...")
 
